@@ -1,5 +1,5 @@
 {
-  "name": "url-title-scrubber",
+  "name": "url-seo-scrubber",
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
@@ -9,5 +9,14 @@
   "devDependencies": {
     "mocha": "~1.12.0"
   },
-  "description": "Takes a string and formats it for a url."
+  "description": "Takes a string and formats it for a url.",
+  "keywords": [
+    "url",
+    "scrub",
+    "seo"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tommymessbauer/url-seo-scrubber.git"
+  }
 }
